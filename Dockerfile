@@ -4,4 +4,4 @@ FROM couchbase:7.0.0
 
 EXPOSE 80000
 
-RUN echo 0
+RUN echo 1
